@@ -1,0 +1,22 @@
+.todo-child{
+    
+    height:30px;
+    border-bottom: 1px solid gray;
+    margin: 10px;
+}
+.todo-child:first-child{
+    border-top: 1px solid grey;
+}
+.list-todo-content{
+    min-width: 400px;
+    max-width: 500px;
+    margin:0 auto;
+}
+.text{
+    margin-right: 10px;
+
+
+}
+.App{
+    text-align: center;
+}
